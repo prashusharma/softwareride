@@ -38,7 +38,7 @@
                             <div class="top_left">
                                 <ul class="top-links clearfix">
                                     <li>
-                                        <a href="#" class="get_a_quote">Get a quote </a>
+                                        <a href="#reach-us" class="get_a_quote">Get a quote </a>
                                     <li>
                                     <li>Welcome to Softwareride.com</li>
                                 </ul>
@@ -99,7 +99,7 @@
                                             </li>
                                             <li class="menu-item menu-item-has-children dropdown nav-item">
                                                 <a href="#reach-us" class="dropdown-toggle nav-link">
-                                                    <span>Reach us</span>
+                                                    <span>Contact us</span>
                                                 </a>
                                             </li>
                                             <li class="menu-item menu-item-has-children dropdown nav-item">
