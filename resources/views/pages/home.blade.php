@@ -1038,7 +1038,7 @@
                                                       <i class="fa fa-check"></i>
                                                    </li>
                                                 </ul>
-                                                <a href="#" target="_blank" rel="nofollow" class="theme-btn two">
+                                                <a href="#reach-us" target="_blank" rel="nofollow" class="theme-btn two">
                                                    Get Now
                                                 </a>
                                              </div>
@@ -1085,7 +1085,7 @@
                                                       <i class="fa fa-check"></i>
                                                    </li>
                                                 </ul>
-                                                <a href="#" target="_blank" rel="nofollow" class="theme-btn two">
+                                                <a href="#reach-us" target="_blank" rel="nofollow" class="theme-btn two">
                                                    Get Now
                                                 </a>
                                              </div>
@@ -1132,7 +1132,7 @@
                                                       <i class="fa fa-check"></i>
                                                    </li>
                                                 </ul>
-                                                <a href="#" target="_blank" rel="nofollow" class="theme-btn two">
+                                                <a href="#reach-us" target="_blank" rel="nofollow" class="theme-btn two">
                                                    Get Now
                                                 </a>
                                              </div>
