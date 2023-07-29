@@ -67,7 +67,7 @@
                         <nav class="inner_box">
                             <div class="header_logo_box">
                                 <a href="index.html" class="logo navbar-brand d-flex align-items-center">
-                                     <img src="assets/images/sr-logo-black.png" alt="SoftwareRide" class="logo_default" style="width: 80px">
+                                    <img src="assets/images/sr-logo-black.png" alt="SoftwareRide" class="logo_default" style="width: 80px">
                                     <img src="assets/images/sr-logo-black.png" alt="SoftwareRide" class="logo__sticky"> 
                                     <h1 class="display-6">SoftwareRide</h1>
                                 </a>
