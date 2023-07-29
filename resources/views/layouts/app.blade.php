@@ -28,7 +28,6 @@
     <link rel='stylesheet' id="creote-color-switcher-css" href="{{ asset('assets/css/scss/elements/color-switcher/color.css') }}" type='text/css' media='all' />
     <!-- Style-->
     <!-- Scripts -->
-    @vite(['resources/sass/app.scss', 'resources/js/app.js'])
 </head>
 
 <body class="home theme-creote page-home-default-one">
