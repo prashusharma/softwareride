@@ -66,10 +66,10 @@
                     <div class="default-container">
                         <nav class="inner_box">
                             <div class="header_logo_box">
-                                <a href="index.html" class="logo navbar-brand">
-                                    <!-- <img src="assets/images/logo-default.png" alt="Creote" class="logo_default"> -->
-                                    <h4>SoftwareRide</h4>
-                                    <img src="assets/images/logo-default.png" alt="Creote" class="logo__sticky">
+                                <a href="index.html" class="logo navbar-brand d-flex align-items-center">
+                                     <img src="assets/images/sr-logo-black.png" alt="SoftwareRide" class="logo_default" style="width: 80px">
+                                    <img src="assets/images/sr-logo-black.png" alt="SoftwareRide" class="logo__sticky"> 
+                                    <h1 class="display-6">SoftwareRide</h1>
                                 </a>
                             </div>
                             <div class="navbar_togglers hamburger_menu">
@@ -1634,7 +1634,7 @@
                         <div class="col-lg-2 col-md-12">
                             <div class="footer_logo">
                             <a href="index.html" class="logo navbar-brand">
-                                    <!-- <img src="assets/images/logo-default.png" alt="Creote" class="logo_default"> -->
+                                    <!-- <img src="assets/images/logo-default.png" alt="SoftwareRide" class="logo_default"> -->
                                     <h4>SoftwareRide</h4>
                                 </a>
                             </div>
@@ -1728,7 +1728,7 @@
                         <div class="form_content">
 
 
-                            <form class="contact-form" method="post" action="https://themepanthers.com/html/creote-html/sendemail.php">
+                            <form class="contact-form" method="post" action="https://themepanthers.com/html/SoftwareRide-html/sendemail.php">
                                 <p>
                                     <label> Your name<br />
                                         <input type="text" name="name" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Enter Your Name" />
